@@ -1,0 +1,10 @@
+{
+  "title": "Yieldster SDK Docs",
+  "url": "http://localhost:3000",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "Yieldster-Framework/SDK-Docs",
+  "twitter": "@yieldster"
+}
