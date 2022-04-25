@@ -10,8 +10,8 @@ features:
   - Feature 4
 ---
 
-<img src="/preview.jpg" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview.jpg" class="dark-img" width="1280" height="640" alt=""/>
+<img src="./preview.jpg" class="light-img" width="1280" height="640" alt=""/>
+<img src="./preview.jpg" class="dark-img" width="1280" height="640" alt=""/>
 
 [Module]() for [NuxtJS](https://nuxtjs.org).
 

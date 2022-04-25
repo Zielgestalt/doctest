@@ -2,8 +2,8 @@
   "title": "Yieldster SDK Docs",
   "url": "https://zielgestalt.github.io/doctest",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "./logo-light.svg",
+    "dark": "./logo-dark.svg"
   },
   "github": "Zielgestalt/doctest",
   "twitter": "@yieldster"
