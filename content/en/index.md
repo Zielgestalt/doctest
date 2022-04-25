@@ -7,6 +7,7 @@ features:
   - Feature 1
   - Feature 2
   - Feature 3
+  - Feature 4
 ---
 
 <img src="/preview.jpg" class="light-img" width="1280" height="640" alt=""/>
